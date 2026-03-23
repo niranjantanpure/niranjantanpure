@@ -7,9 +7,7 @@
 <img align="right" alt="Zenitsu anime gif" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZkM2E5ZjBlYmQ1YzhlZDRjN2RlZjRkY2RmNDY5OGM0NWIwZjExMyZjdD1n/jUwpNzg9IcyrK/giphy.gif" />
 
 - 💼 Software Developer with a strong focus on **Backend Development**  
-- ✨ Passionate about writing **clean, efficient, and maintainable code**  
-- 🎓 Age: **24**  
-- 📈 Interested in **Stock Market & Finance**  
+
 
 ---
 
